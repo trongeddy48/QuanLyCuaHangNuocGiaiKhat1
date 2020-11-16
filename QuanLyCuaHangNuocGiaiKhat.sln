@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyCuaHangNuocGiaiKhat", "QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat.csproj", "{A5289342-6DEB-4F20-8018-303D092B6E86}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QLCuaHangNGK", "C:\Users\thanh\Music\QLCHNGK\QLCuaHangNGK\QLCuaHangNGK.vdproj", "{55DDE013-8BCF-413D-9E0C-360136632838}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QLNGK", "C:\Users\thanh\Music\QLNGK\QLNGK\QLNGK.vdproj", "{8D1E350B-C2A8-42DC-B735-8C721FEDBDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5289342-6DEB-4F20-8018-303D092B6E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5289342-6DEB-4F20-8018-303D092B6E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5289342-6DEB-4F20-8018-303D092B6E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5289342-6DEB-4F20-8018-303D092B6E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DDE013-8BCF-413D-9E0C-360136632838}.Debug|Any CPU.ActiveCfg = Debug
+		{55DDE013-8BCF-413D-9E0C-360136632838}.Release|Any CPU.ActiveCfg = Release
+		{8D1E350B-C2A8-42DC-B735-8C721FEDBDAE}.Debug|Any CPU.ActiveCfg = Debug
+		{8D1E350B-C2A8-42DC-B735-8C721FEDBDAE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
